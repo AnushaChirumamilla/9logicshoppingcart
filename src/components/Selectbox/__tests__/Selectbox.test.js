@@ -2,8 +2,8 @@ import Selectbox from '..';
 
 const optionsMock = [
   { value: '', label: 'Select' },
-  { value: 'lowestprice', label: 'Lowest to highest' },
-  { value: 'highestprice', label: 'Highest to lowest' }
+  { value: 'LowPrice', label: 'Lowest to highest' },
+  { value: 'HighPrice', label: 'Highest to lowest' }
 ];
 
 let wrapped;
